@@ -1,1 +1,1 @@
-# css-variable-highlight
+# vscode-ext-color-highlight-playground

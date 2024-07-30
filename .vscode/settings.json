@@ -1,0 +1,5 @@
+{    
+    "color-highlight.enable": true,
+    "color-highlight.css.globalPaths": ["./variables.css"],
+    "color-highlight.sass.globalPaths": ["./variables.scss"],
+}
